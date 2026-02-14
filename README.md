@@ -1,4 +1,4 @@
-название приложения, ФИО разработчиков, функциональность, скрин приложения
+
 Project_random_item 
 Насида Алексей Владимирович 
 приложение выбирает случайный предмет(картинка и его название) и выводит его на экран 
@@ -23,7 +23,10 @@ Project_random_item
 
 
 
-
+super.onCreate(savedInstanceState)-Это вызов метода родительского класса
+ActivityMainBinding.inflate(layoutInflater)- Создает объект для доступа к элементам из activity_main.xml
+lateinit-Сообщает компилятору, что переменная будет инициализирована позже, до первого использования.
+app:layout_constraintTop_toBottomOf="@+id/itemImageView"- Привязывает верхнюю границу текущего элемента к нижней границе элемента с id itemImageView.
 
 
 
