@@ -1,0 +1,13 @@
+<resources>
+    <string name="hint_text">Бог рандома поможет выбрать айтем на медузу</string>
+    <string name="initial_item_name">Здесь будет название предмета</string>
+    <string name="random_button_text">Выбрать случайный предмет</string>
+    <string name="item_image_description">Изображение предмета</string>
+    <string name="app_name">Project Random Item</string>
+    <string name="item_rapira">Рапира</string>
+    <string name="item_krit">Крит урон</string>
+    <string name="item_skipet">Скипетр</string>
+    <string name="item_skadi">Скади</string>
+    <string name="item_babochka">Бабочка</string>
+    <string name="item_manta">Манта</string>
+</resources>
