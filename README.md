@@ -2,45 +2,9 @@
 Project_random_item 
 Насида Алексей Владимирович 
 приложение выбирает случайный предмет(картинка и его название) и выводит его на экран 
+
+
 <img width="558" height="896" alt="image" src="https://github.com/user-attachments/assets/afd6af74-c868-4c04-8be6-794992dd1e5a" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
